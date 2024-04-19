@@ -18,7 +18,7 @@ You can view my certificate of completion [here](https://www.udemy.com/certifica
 - Redux
 - API Geolocation
 
-## Description:
+## Features:
 Users can perform in this project the following actions: 
 
 - Provide name, phone number, and address for pizza delivery.
@@ -30,7 +30,7 @@ Users can perform in this project the following actions:
 
 Media queries have been implemented to ensure responsiveness across various screen sizes and devices.
 
-## Setup/Installation Requirements:
+## How to run:
 
 To set up the Fast React Pizza on your local machine, follow these instructions:
 
