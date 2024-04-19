@@ -34,7 +34,7 @@ Media queries have been implemented to ensure responsiveness across various scre
 
 To set up the Fast React Pizza on your local machine, follow these instructions:
 
-- Clone the repository: 
+- Clone the repository: https://github.com/ingridgsi/fast-react-pizza.git
 - Move to the project directory: cd fast-react-pizza
 - Install necessary dependencies: npm install
 - Launch the development server: npm run dev
