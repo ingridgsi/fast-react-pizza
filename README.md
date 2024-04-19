@@ -38,7 +38,7 @@ To set up the Fast React Pizza on your local machine, follow these instructions:
 - Move to the project directory: cd fast-react-pizza
 - Install necessary dependencies: npm install
 - Launch the development server: npm run dev
-- Open your web browser and visit http://localhost:5173 to access Fast React Pizza.
+- Open your web browser and visit http://localhost:5174 to access Fast React Pizza.
 
 ## Deployment:
 
